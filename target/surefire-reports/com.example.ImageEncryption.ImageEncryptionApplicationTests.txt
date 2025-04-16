@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ImageEncryption.ImageEncryptionApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.69 s -- in com.example.ImageEncryption.ImageEncryptionApplicationTests
